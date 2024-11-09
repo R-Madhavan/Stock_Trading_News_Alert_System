@@ -1,7 +1,7 @@
 # Stock Trading and News Alert System
 ![OptionSweepsTradeuiGIF](https://github.com/user-attachments/assets/7c518557-fcc5-41df-9e44-be62c65dd7c3)
 
-This Python script monitors the stock price of a specified company (e.g., Tesla Inc.) and sends SMS notifications with recent news articles when there's a significant price change. It uses the Alpha Vantage API to check stock price changes, the News API to fetch relevant news articles, and Twilio to send SMS notifications.
+This Python script monitors the stock price of a specified company (e.g., Tesla Inc.) and sends SMS notifications with recent news articles when there's a significant price change. It uses the Alpha Vantage API to check stock price changes, the News API to fetch relevant news articles, and Twilio to send SMS notifications. In this project we used Tesla Inc. Stock price and alert Message.
 
 ## Table of Contents
 
